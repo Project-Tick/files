@@ -2,7 +2,7 @@
     "+agents": [
         {
             "name": "uk.betacraft:legacyfix:nightly-7ff1a85",
-            "url": "https://files.prismlauncher.org/maven"
+            "url": "https://files.yongdohyun.org.tr/maven"
         }
     ],
     "+jvmArgs": [
