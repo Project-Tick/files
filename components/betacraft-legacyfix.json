@@ -2,7 +2,7 @@
     "+agents": [
         {
             "name": "uk.betacraft:legacyfix:nightly-7ff1a85",
-            "url": "https://files.yongdohyun.org.tr/maven"
+            "url": "https://files.projecttick.org/maven"
         }
     ],
     "+jvmArgs": [
